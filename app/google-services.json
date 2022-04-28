@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189286803727",
+    "firebase_url": "https://weatherapp-f541a-default-rtdb.firebaseio.com",
+    "project_id": "weatherapp-f541a",
+    "storage_bucket": "weatherapp-f541a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189286803727:android:d988baed463e2cb9a0367a",
+        "android_client_info": {
+          "package_name": "com.veselin.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189286803727-nsd4jeatco29tobb6jvdb2ulq17bnvoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veselin.weatherapp",
+            "certificate_hash": "6b76b7eb5167a611e5b2e384b5231bdb8ffa6aa0"
+          }
+        },
+        {
+          "client_id": "189286803727-m21mg3n8qa6planf8ja6gl1rks98nvqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKBhCvsHA1z5gfvMBtG_-pOct-8VKyJ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189286803727-m21mg3n8qa6planf8ja6gl1rks98nvqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
